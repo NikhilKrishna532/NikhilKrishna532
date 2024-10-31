@@ -60,12 +60,5 @@ I'm **@NikhilKrishna532** – an AIML enthusiast, software developer, and tech e
 
 ---
 
-### 📊 GitHub Stats
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilKrishna532&show_icons=true&theme=radical)  
-
-### ✨ Profile Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=NikhilKrishna532&color=blue)
-
----
 
 🌐 **Let’s Connect and Build Amazing Projects Together!**
