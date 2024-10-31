@@ -1,6 +1,6 @@
 # 👋 Hey there! Welcome to Nikhil's Hub of Creativity 🚀
   
-I'm **Nikhil Krishna ** – an AIML enthusiast, software developer, and tech explorer on a journey to push the boundaries of AI and machine learning.
+I'm **Nikhil Krishna** – an AIML enthusiast, software developer, and tech explorer on a journey to push the boundaries of AI and machine learning.
 
 ---
 
