@@ -56,7 +56,7 @@ I'm **Nikhil Krishna** – an AIML enthusiast, software developer, and tech expl
 
 ### 🌟 Fun Facts  
 - ⚡ I believe in the **power of continuous learning** and love discovering new frameworks and tools.  
-- 🧩 When I’m not coding, I enjoy exploring sci-fi books and immersing myself in gaming worlds.  
+- 🧩 When I’m not coding, I enjoy travelling and immerse myself in gaming worlds.  
 
 ---
 
