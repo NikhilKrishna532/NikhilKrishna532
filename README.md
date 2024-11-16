@@ -30,21 +30,27 @@ I'm **Nikhil Krishna** – an AIML enthusiast, software developer, and tech expl
 ---
 
 ### 🎬 Featured Projects  
-**1. Movie & Music Recommendation System using Emotion Detection 🎥🎶**  
-*A responsive app that detects user emotions and recommends movies/music based on sentiment analysis.*  
-  - **Tech Stack:** Python, Flask, JavaScript, HTML, CSS
+🎬 Featured Projects
 
-**2. Automatic Image Captioning with Neural Networks 📸**  
-*Multimodal model that generates accurate image captions, blending computer vision and NLP.*  
-  - **Tech Stack:** PyTorch, TensorFlow, Keras, NLTK
+1. **DCGAN for Generating Realistic Human Faces 👤** *(Project in Progress)*  
+   A model using Deep Convolutional Generative Adversarial Networks (DCGAN) to generate realistic human faces with diverse characteristics like age, ethnicity, and gender. The generated faces are unique and do not correspond to any specific real individuals.  
+   **Tech Stack**: Python, TensorFlow, Keras
 
-**3. Personal Finance Dashboard 💰**  
-*A platform that simplifies personal finance management through a user-friendly interface and robust backend.*  
-  - **Tech Stack:** Python, Flask, JavaScript
+2. **Movie & Music Recommendation System using Emotion Detection 🎥🎶**  
+   A responsive app that detects user emotions and recommends movies/music based on sentiment analysis.  
+   **Tech Stack**: Python, Flask, JavaScript, HTML, CSS
 
-**4. Self-Driving Car Simulation 🚗**  
-*A neural network-powered self-driving car simulation for real-time decision-making.*  
-  - **Tech Stack:** Python, TensorFlow
+3. **Automatic Image Captioning with Neural Networks 📸**  
+   Multimodal model that generates accurate image captions, blending computer vision and NLP.  
+   **Tech Stack**: PyTorch, TensorFlow, Keras, NLTK
+
+4. **Personal Finance Dashboard 💰**  
+   A platform that simplifies personal finance management through a user-friendly interface and robust backend.  
+   **Tech Stack**: Python, Flask, JavaScript
+
+5. **Self-Driving Car Simulation 🚗**  
+   A neural network-powered self-driving car simulation for real-time decision-making.  
+   **Tech Stack**: Python, TensorFlow
 
 ---
 
