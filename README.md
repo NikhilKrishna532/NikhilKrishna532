@@ -30,7 +30,7 @@ I'm **Nikhil Krishna** – an AIML enthusiast, software developer, and tech expl
 ---
 
 ### 🎬 Featured Projects  
-🎬 Featured Projects
+
 
 1. **DCGAN for Generating Realistic Human Faces 👤** *(Project in Progress)*  
    A model using Deep Convolutional Generative Adversarial Networks (DCGAN) to generate realistic human faces with diverse characteristics like age, ethnicity, and gender. The generated faces are unique and do not correspond to any specific real individuals.  
